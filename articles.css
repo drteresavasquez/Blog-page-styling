@@ -1,0 +1,54 @@
+#articleOne{
+	background-color: Red;
+	font-family: "Arial";
+	font-size: 20%;
+	color: white;
+	line-height: 120%;
+	padding: 10px;
+	border: 5px solid Blue;
+	border-radius: 20px;
+}
+
+#articleTwo{
+	background-color: Blue;
+	font-family: "Times New Roman";
+	font-size: 40%;
+	line-height: 140%;
+	padding: 20px;
+	border: 10px solid black;
+	border-radius: 10px;
+}
+
+#articleThree{
+	background-color: Orange;
+	font-family: "Helvetica";
+	font-size: 60%;
+	color: Crimson;
+	line-height: 150%;
+	padding: 30px;
+	border: 15px solid red;
+	border-radius: 40px;
+}
+
+#articleFour{
+	background-color: Crimson;
+	font-family: "Georgia";
+	font-size: 80%;
+	color: Gray;
+	line-height: 180%;
+	padding: 40px;
+	border: 20px solid purple;
+	border-radius: 5px;
+}
+
+#articleFive{
+	background-color: Purple;
+	font-family: "Courier New";
+	font-size: 100%;
+	color: Blue;
+	line-height: 200%;
+	padding: 50px;
+	border: 25px solid Crimson;
+	border-radius: 60px;
+}
+
